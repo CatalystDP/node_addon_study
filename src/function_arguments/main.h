@@ -4,7 +4,6 @@
 
 #ifndef NODE_ADDON_STUDY_MAIN_H
 #define NODE_ADDON_STUDY_MAIN_H
-#include <nan.h>
+#include "nan.h"
 #include <iostream>
-#include "myFunction.h"
 #endif //NODE_ADDON_STUDY_MAIN_H
